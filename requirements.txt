@@ -1,0 +1,6 @@
+pyrogram
+tgcalls==3.0.0.dev24
+faster-whisper
+groq
+edge-tts
+asyncio
